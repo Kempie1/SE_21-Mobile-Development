@@ -1,0 +1,32 @@
+@startjson
+{
+  "default_exercise": {
+    "Exercise Name": "BOOLEAN"
+  },
+  "exercise": {
+    "Exercise Name": {
+      "img": "STRING",
+      "name": "STRING"
+    }
+  },
+  "exercise_pr": {
+    "Exercise Name": {
+      "UUID": {
+        "UUID": {
+          "date": "STRING",
+          "weight": "STRING"
+        }
+      }
+    }
+  },
+  "users": {
+    "UUID": {
+      "displayName": "STRING",
+      "exercise": {
+        "Exercise Name": "BOOLEAN"
+      },
+      "userId": "AUTH UUID"
+    }
+  }
+}
+@endjson
