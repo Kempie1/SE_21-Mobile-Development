@@ -24,4 +24,4 @@ With the current DB structure looking like:
 
 Or on white board:
 
-![DB Model White Board](./images/whiteboardDB.jpg)
+![DB Model White Board](./images/whiteboardRelation.jpg)
