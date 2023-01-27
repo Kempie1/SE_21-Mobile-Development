@@ -17,7 +17,7 @@ Code files are located in
 
 ## Database
 This application uses Firebase Realtime Database.
-With the current DB structure looking like:
+With the current DB structure looking like: (where the same label means they are related)
 
 ![DB Model](./images/DBmodel.svg)
 
