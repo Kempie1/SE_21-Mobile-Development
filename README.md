@@ -10,6 +10,11 @@ Code files are located in
 
 ## Database
 This application uses Firebase Realtime Database.
-With the current DB structure looking like 
+With the current DB structure looking like:
 
 ![DB Model](./images/DBmodel.svg)
+
+
+Or on white board:
+
+![DB Model White Board](./images/whiteboardDB.jpg)
