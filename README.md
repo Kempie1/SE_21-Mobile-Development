@@ -12,4 +12,4 @@ Code files are located in
 This application uses Firebase Realtime Database.
 With the current DB structure looking like 
 
-![DB Model](./images/dbmodel.png)
+![DB Model](./images/DBmodel.svg)
